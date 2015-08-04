@@ -1,0 +1,120 @@
+#video {
+	border-radius: 3px;
+	background-color:  #00afd1;
+	width: 370px;
+	height: 250px;
+}
+#play {
+	padding-top: 100px;
+	padding-left: 170px;
+
+}
+#circle {
+	padding-top: 50px;
+	padding-left: 170px;
+	height: 120px;
+	margin-top: -105px;
+	margin-left: -32px;
+}
+
+#bottom_left {
+	border-bottom-left-radius: 3px;
+	background-color:  #202226;
+	width: 50px;
+	height: 50px;
+}
+#pause {
+font-family: SSStandard;
+color:  #ffffff;
+font-size: 14px;/* Approximation due to font substitution */
+font-weight: 400;
+line-height: 48px;/* Approximation due to font substitution */
+text-align: center;
+}
+#whitecircle {
+	border-radius: 50%;
+	background-color:  #ffffff;
+	width: 8px;
+	height: 8px;
+}
+#bottom_right {
+	background-color:  rgba(32, 34, 38, 0.9);
+	width: 320px;
+	height: 50px;	
+}
+
+#revenue {
+	margin-top: 100px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	background-color:  #1fbba6;
+	width: 370px;
+	height: 290px;
+}
+#rev_text {
+	padding-left: 160px;
+	font-family: Signika;
+	color:  #f1f1f3;
+	font-size: 38px;/* Approximation due to font substitution */
+	font-weight: 600;
+	line-height: 48px;/* Approximation due to font substitution */
+	text-align: center;
+	width: -100px;
+	height: 50px;
+}
+#tasks {
+	font-family: Signika;
+	color:  #f1f1f3;
+	
+	font-weight: 500;
+	line-height: 48px;/* Approximation due to font substitution */
+	text-align: center;
+	height: 60px;
+}
+#lines {
+	padding-top: 40px;
+	width: -100px;
+	height: 200px
+}
+
+
+
+#revenue_bottom {
+	border-radius: 3px;
+	background-color:  red;
+	width: 370px;
+	height: 517px;
+}
+
+#tasks {
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	background-color:  #323a45;
+	width: 280px;
+	height: 52px;
+}
+
+#little_left {
+	background-color:  #ffffff;
+	width: 93px;
+	height: 77px;
+}
+#little_center {
+	background-color:  #f9fafc;
+	width: 92px;
+	height: 76px;
+}
+#little_right {
+	background-color:  #f9fafc;
+	width: 93px;
+	height: 76px;
+}
+
+
+#mailbox {
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	background-color:  #323a45;
+	width: 280px;
+	height: 52px;
+}
